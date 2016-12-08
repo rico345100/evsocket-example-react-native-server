@@ -1,0 +1,16 @@
+{
+  "name": "evsockserv",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": ".modernator",
+  "license": "ISC",
+  "dependencies": {
+    "evsocket": "^1.0.211",
+    "evsocket-client": "^1.0.211",
+    "express": "^4.14.0"
+  }
+}
